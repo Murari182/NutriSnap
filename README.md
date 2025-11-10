@@ -93,10 +93,10 @@ none
 ## Authors
 
 - team techtitans
-                SREERAMADASU MUKUNDA RAMA CHARY
-                YASWANTH BUDURU
-                A.SWARANJITH KUMAR GOUD
-                B.BHARGAV VENKAT DORA
+                SREERAMADASU MUKUNDA RAMA CHARY<br>
+                YASWANTH BUDURU<br>
+                A.SWARANJITH KUMAR GOUD<br>
+                B.BHARGAV VENKAT DORA<br>
 
 
 ## Acknowledgments
