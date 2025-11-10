@@ -92,7 +92,7 @@ none
 
 ## Authors
 
-- team techtitans<br>
+- Team TechTians<br>
                 SREERAMADASU MUKUNDA RAMA CHARY<br>
                 YASWANTH BUDURU<br>
                 A.SWARANJITH KUMAR GOUD<br>
